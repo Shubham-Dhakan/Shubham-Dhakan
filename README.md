@@ -7,6 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham-dhakan&label=Profile%20views&color=0e75b6&style=flat" alt="shubham-dhakan" /> </p>
 
 <h3 align="left">Connect with me:</h3>
+#
 <p align="left">
 <a href="https://www.linkedin.com/in/shubham-dhakan-4973011a0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shubham-dhakan-4973011a0/" height="30" width="40" /></a>
 <a href="https://instagram.com/shu8hamdhakan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shu8hamdhakan" height="30" width="40" /></a>
