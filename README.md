@@ -50,6 +50,8 @@ Here are some ideas to get you started:
 
 #
 
+### 📊 Stats
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham-dhakan&show_icons=true&locale=en&layout=compact" alt="shubham-dhakan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubham-dhakan&show_icons=true&locale=en" alt="shubham-dhakan" /></p>
