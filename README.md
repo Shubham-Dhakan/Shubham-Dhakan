@@ -2,10 +2,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...   Web Development Projects
-- 🌱 I’m currently learning ...     React | MongoDB  
+- 🔭 I’m currently working on ...   **` Web Development Projects `**
+- 🌱 I’m currently learning ...     **` React | MongoDB `**  
 - 👯 I’m looking to collaborate on ...      
-- 🤔 I’m looking for help with ...          **` New Grad Full-Time Job (FrontEnd | BackEnd | FullStack) `**
+- 🤔 I’m looking for help with ...          **` New Grad Full-Time Job, Canada (FrontEnd | BackEnd | FullStack) `**
 - 💬 Ask me about ...                       **` Web Development | AWS | QA Software Testing `**
 - 📫 How to reach me: ...                   **` shubham.dhakan@gmail.com `**
 - 😄 Pronouns: ...
