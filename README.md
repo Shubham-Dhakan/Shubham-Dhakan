@@ -2,7 +2,7 @@
 
 **`WebDeveloper (frontEnd / backEnd)`**
 
-I'm an International student from India learning full-stack developer and QA Software Testing taking one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. 
+<p align="center"> I'm an International student from India learning full-stack developer and QA Software Testing taking one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham-dhakan&label=Profile%20views&color=0e75b6&style=flat" alt="shubham-dhakan" /> </p>
 
