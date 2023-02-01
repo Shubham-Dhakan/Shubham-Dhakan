@@ -1,17 +1,3 @@
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...   **` Web Development Projects `**
-- 🌱 I’m currently learning ...     **` React | MongoDB `**  
-- 👯 I’m looking to collaborate on ...      
-- 🤔 I’m looking for help with ...          **` New Grad Full-Time Job, Canada (FrontEnd | BackEnd | FullStack Developer | QA Testing) `**
-- 💬 Ask me about ...                       **` Web Development | AWS | QA Software Testing `**
-- 📫 How to reach me: ...                   **` shubham.dhakan@gmail.com `**
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
 # 🏄‍♂️ ShubhamDhakan
 
 **`WebDeveloper (frontEnd / backEnd)`**
@@ -25,6 +11,20 @@ I'm an International student from India learning full-stack developer and QA Sof
 <a href="https://www.linkedin.com/in/shubham-dhakan-4973011a0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shubham-dhakan-4973011a0/" height="30" width="40" /></a>
 <a href="https://instagram.com/shu8hamdhakan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shu8hamdhakan" height="30" width="40" /></a>
 </p>
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...   **` Web Development Projects `**
+- 🌱 I’m currently learning ...     **` React | MongoDB `**  
+- 👯 I’m looking to collaborate on ...      
+- 🤔 I’m looking for help with ...          **` New Grad Full-Time Job, Canada (FrontEnd | BackEnd | FullStack Developer | QA Testing) `**
+- 💬 Ask me about ...                       **` Web Development | AWS | QA Software Testing `**
+- 📫 How to reach me: ...                   **` shubham.dhakan@gmail.com `**
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+
+
 
 ---
 
