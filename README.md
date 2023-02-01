@@ -12,6 +12,8 @@ I'm an International student from India learning full-stack developer and QA Sof
 <a href="https://instagram.com/shu8hamdhakan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shu8hamdhakan" height="30" width="40" /></a>
 </p>
 
+---
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
