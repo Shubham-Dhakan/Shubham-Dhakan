@@ -55,6 +55,6 @@ Here are some ideas to get you started:
 
 ### 📊 Stats
 <div>
-<img height=180em  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham-dhakan&show_icons=true&locale=en&layout=compact" alt="shubham-dhakan" />
+<img height=180em  align="center" src="https://github-readme-stats.vercel=PAT_1.app/api/top-langs?username=shubham-dhakan&show_icons=true&locale=en&layout=compact" alt="shubham-dhakan" />
 <img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=shubham-dhakan&show_icons=true&locale=en" alt="shubham-dhakan" />
 </div>
